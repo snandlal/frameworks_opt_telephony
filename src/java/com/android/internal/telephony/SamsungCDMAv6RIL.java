@@ -43,7 +43,7 @@ import com.android.internal.telephony.DataCallState;
 import com.android.internal.telephony.DataConnection.FailCause;
 import com.android.internal.telephony.gsm.SmsBroadcastConfigInfo;
 import com.android.internal.telephony.gsm.SuppServiceNotification;
-import com.android.internal.telephony.IccCardApplication;
+import com.android.internal.telephony.IccCardApplicationStatus;
 import com.android.internal.telephony.IccCardStatus;
 import com.android.internal.telephony.IccUtils;
 import com.android.internal.telephony.RILConstants;
